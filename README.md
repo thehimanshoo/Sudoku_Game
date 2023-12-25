@@ -1,5 +1,5 @@
 
-# Sudoko Game for DM Case Study: Generator and Solver
+# Sudoko Game for Entertainment : Generator and Solver
 
 A Sudoku game which you can play to refresh yourself if you are a fan of sudoku.
 It is also for them who want to visualize algorithms!
