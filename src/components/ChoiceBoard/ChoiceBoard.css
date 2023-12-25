@@ -1,0 +1,38 @@
+.choice-container {
+  display: flex;
+  justify-content: space-around;
+  flex: 1;
+}
+
+.choice {
+  padding: 5px 15px;
+  font-weight: 900;
+  border: 2px solid;
+  margin: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: #141c3a;
+}
+.selected-eraser {
+  background: lightblue;
+}
+
+.selected p {
+  color: white;
+}
+
+.noSelect {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.noSelect:focus {
+    outline: none !important;
+}
